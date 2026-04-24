@@ -11,7 +11,7 @@ function Navbar() {
             window.scrollTo({ top: 0, behavior: "smooth" })
         }}
         >
-        Warunee Dinunzio
+        Warunee Dinunzio Testing
         </a>
 
         <div className="flex gap-6 text-sm font-medium">
